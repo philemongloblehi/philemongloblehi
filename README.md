@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋🏽 Hello, this is Globléhi!
 
-<!--
-**philemongloblehi/philemongloblehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Bio](https://raw.githubusercontent.com/philemongloblehi/philemongloblehi/master/bio.png)
 
-Here are some ideas to get you started:
+Philémon Globléhi is a very open and smiling person. Really passionate about software development and DevOps lover ❤️ and i am available for collaboration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```php
+$app->get('globlehi', function () {
+  echo "📇 Philémon Globléhi is a great software developer ❤️";
+});
+```
+
+### Find me
+
+- 👉🏽 <a href="mailto:philemongloblehi@gmail.com">philemongloblehi@gmail.com</a>
+- 👉🏽 [https://twitter.com/globlehi225](@globlehi225)
+- 💼 [My LinkedIn](https://www.linkedin.com/in/philemon-globlehi/)
+
+<p align="center"><a href="buymeacoffee.com/?via=globlehi" font-color="#144579">☕️ Buy Me Coffee</a></p>
