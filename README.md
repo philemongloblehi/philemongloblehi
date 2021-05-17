@@ -16,4 +16,4 @@ $app->get('globlehi', function () {
 - 👉🏽 [My Twitter](https://twitter.com/globlehi225)
 - 💼 [My LinkedIn](https://www.linkedin.com/in/philemon-globlehi/)
 
-<p align="center"><a href="buymeacoffee.com/?via=globlehi" font-color="#144579">☕️ Buy Me Coffee</a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/?via=globlehi" font-color="#144579">☕️ Buy Me Coffee</a></p>
