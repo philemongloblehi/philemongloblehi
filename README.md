@@ -13,7 +13,7 @@ $app->get('globlehi', function () {
 ### Find me
 
 - 👉🏽 <a href="mailto:philemongloblehi@gmail.com">philemongloblehi@gmail.com</a>
-- 👉🏽 [https://twitter.com/globlehi225]
+- 👉🏽 [My Twitter](https://twitter.com/globlehi225)
 - 💼 [My LinkedIn](https://www.linkedin.com/in/philemon-globlehi/)
 
 <p align="center"><a href="buymeacoffee.com/?via=globlehi" font-color="#144579">☕️ Buy Me Coffee</a></p>
