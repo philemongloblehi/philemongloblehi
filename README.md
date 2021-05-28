@@ -1,4 +1,6 @@
+<h1 align="center">
 # 👋🏽 Hello, this is Globléhi!
+</h1> 
 
 <p align="center">
  A 🏄 software developer from <a href="https://goo.gl/maps/1U2epkAaDQJLXrGJ8">Ivory Coast</a> 
