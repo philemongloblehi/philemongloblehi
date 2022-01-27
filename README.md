@@ -29,7 +29,7 @@ I am a Back-end Developer and DevOps <img src="https://media.giphy.com/media/WUl
 - 🔭 I’m working as a Software Engineer and contributing to backend and DevOps for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-philemongloblehi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philemon-globlehi/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Philemon Globlehi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philemon-globlehi/)
 
 
 ```php
