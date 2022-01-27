@@ -22,6 +22,7 @@
   </a>
 </p>
 
+
 ### :woman_technologist: &nbsp;About Me :
 
 I am a Back-end Developer and DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ivory Coast.
@@ -39,6 +40,8 @@ class Launcher {
     }
 }
 ```
+
+
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
@@ -64,6 +67,7 @@ class Launcher {
  <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="Tomcat" **alt="Tomcat" width="40" height="40"/>&nbsp;
 </p>
 
+
 ### Find me
 
 - 👉🏽 <a href="mailto:philemongloblehi@gmail.com">philemongloblehi@gmail.com</a>
@@ -71,6 +75,7 @@ class Launcher {
 - 💼 [My LinkedIn](https://www.linkedin.com/in/philemon-globlehi/)
 
 <p align="center"><a href="https://www.buymeacoffee.com/?via=globlehi" font-color="#144579">☕️ Buy Me Coffee</a></p>
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -80,6 +85,7 @@ class Launcher {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philemongloblehi&layout=compact&langs_count=8&theme=algolia&hide=php,html"/>
 </a>
 </p>
+
 
 ### ✍️ Blog Posts : 
 <!-- BLOG-POST-LIST:START -->
