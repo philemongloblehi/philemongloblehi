@@ -32,10 +32,12 @@ I am a Back-end Developer and DevOps <img src="https://media.giphy.com/media/WUl
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-philemongloblehi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philemon-globlehi/)
 
 
-```php
-$app->get('globlehi', function () {
-  echo "📇 Philémon Globléhi is a great software developer ❤️";
-});
+```iava
+class Launcher {
+    public static void main(String[] args) {
+        System.out.println("📇 Philémon Globléhi is a great software developer ❤️"); 
+    }
+}
 ```
 ### 🛠 &nbsp;Languages and Tools :
 
