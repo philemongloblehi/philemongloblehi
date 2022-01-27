@@ -1,5 +1,5 @@
 <h1 align="center">
-👋🏽 Hello, this is Globléhi!
+👋🏽 Hello, this is Globléhi !
 </h1> 
 
 <p align="center">
