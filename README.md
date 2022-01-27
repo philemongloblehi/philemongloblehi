@@ -24,7 +24,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Back-end Developer and DevOps lover ❤️ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ivory Coast.
+I am a Back-end Developer and DevOps lover <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ivory Coast.
 
 - 🔭 I’m working as a Software Engineer and contributing to backend and DevOps for building web applications.
 - 🌱 Exploring Technical Content Writing.
