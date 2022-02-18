@@ -68,7 +68,6 @@ class Launcher {
 ### Find me
 
 - 👉🏽 <a href="mailto:philemongloblehi@gmail.com">philemongloblehi@gmail.com</a>
-- 👉🏽 [My Twitter](https://twitter.com/globlehi225)
 - 💼 [My LinkedIn](https://www.linkedin.com/in/philemon-globlehi/)
 
 <p align="center"><a href="https://www.buymeacoffee.com/?via=globlehi" font-color="#144579">☕️ Buy Me Coffee</a></p>
